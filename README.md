@@ -40,4 +40,19 @@
 | [AI Samurai SMM](https://github.com/Dan-The-Creator/smm-expert) | Автопостинг в ВК с генерацией текста и изображений | Python, Flask, OpenAI, VK API |
 | [VoiceScribe Bot](https://github.com/Dan-The-Creator/voicescribe-bot) | Транскрибация голосовых + выделение тезисов | Python, Whisper, GPT-4o |
 | [RAG Jewelry Consultant](https://github.com/Dan-The-Creator/RAG-Jewelry-Consultant) | AI-консультант для ювелирного магазина | LangChain, FAISS, RAG |
-| [Sales Call QC](https://github.com/Dan-The-Creator/Sales-
+| [Sales Call QC](https://github.com/Dan-The-Creator/Sales-Call-Quality-Control) | Контроль качества звонков отдела продаж | Make.com, OpenAI |
+
+---
+
+## 🎯 Сейчас
+
+- 🏯 Строю AI-студию **AI Samurai**
+- 🔍 Открыт к проектам по AI-автоматизации
+
+---
+
+<div align="center">
+
+**Есть задача по автоматизации? Напишите в [Telegram](https://t.me/dannisi)**
+
+</div>
